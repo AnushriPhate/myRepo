@@ -1,7 +1,13 @@
 class PW
 {
-	public static void main()
+	public void m1()
 	{
 		//code
+	}
+
+
+	public void m2()
+	{
+		//code2
 	}
 }
